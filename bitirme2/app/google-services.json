@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "20281439078",
+    "project_id": "bitirme2-e3286",
+    "storage_bucket": "bitirme2-e3286.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20281439078:android:7d190bed14c6e94ec24ea7",
+        "android_client_info": {
+          "package_name": "com.eneskoylu.bitirme2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20281439078-vg0rl1ocau88f0cop3kcn52o59cm1oh8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1lYbmkAeyiUsrp5M7TEwcESt1Ssv-QHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20281439078-vg0rl1ocau88f0cop3kcn52o59cm1oh8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

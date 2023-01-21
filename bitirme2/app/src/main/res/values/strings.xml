@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">bitirme2</string>
+    <string name="title_activity_location">LocationActivity</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_detlies">DetliesActivity</string>
+    <string name="todo">TODO</string>
+</resources>
